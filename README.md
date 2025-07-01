@@ -5,7 +5,7 @@ Este proyecto es un sitio web interactivo diseñado para promover experiencias d
 ## Características principales
 
 - **Menú rotativo interactivo:** Utiliza una rueda central con tarjetas distribuidas en círculo que presentan las experiencias destacadas del tour. Al hacer clic, se rota para mostrar la opción seleccionada de forma destacada.
-- **Diseño responsivo:** Totalmente adaptado a pantallas de escritorio, tablets y celulares con media queries y ajustes visuales.
+- **Diseño responsivo:** Totalmente adaptado a pantallas de escritorio, tablets y celulares con media querys y ajustes visuales.
 - **Encabezado estilizado:** Contiene logo, enlaces de navegación, iconos de redes sociales (con filtro blanco) y un botón de reserva.
 - **Galería de aventuras:** Sección inferior con imágenes de experiencias previas, botón de galería y diseño atractivo.
 - **Estética profesional:** Fuentes personalizadas (`Anton`, `Orbitron`), sombreados, animaciones y efectos visuales mejorados.
